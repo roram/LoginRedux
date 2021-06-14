@@ -4,5 +4,9 @@
       "views": "int",
       "published": "boolean",
       "createdAt": "date"
+    },
+    "User":{
+      "username":"true@gmail.com",
+      "password":"Aa123456"
     }
 }
