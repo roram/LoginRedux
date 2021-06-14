@@ -1,0 +1,19 @@
+const NAVIGATOR = {
+    LOGIN_FLOW: 'LOGIN_FLOW',
+    LANDING_FLOW: 'LANDING_FLOW'
+}
+
+const LOGIN_STACK = {
+    LOGIN_SCREEN:'LOGIN_SCREEN'
+}
+
+const LANDING_FLOW = {
+    LANDING_SCREEN:'LANDING_SCREEN'
+}
+
+export default 
+{
+    NAVIGATOR,
+    LOGIN_STACK,
+    LANDING_FLOW
+}
